@@ -22,10 +22,10 @@ python projeto_antena_patch.py
 ```
 
 O programa pede interativamente:
-Frequencia f [GHz]:
-Constante dieletrica er:
-Espessura h [mm]:
-Impedancia alvo Zc [Ohm] [50]:
+- Frequencia f [GHz]:
+- Constante dieletrica er:
+- Espessura h [mm]:
+- Impedancia alvo Zc [Ohm] [50]:
 
 Pressionar Enter no campo de impedância usa o padrão de 50 Ω.
 
